@@ -222,7 +222,7 @@ color: white;
     width: 33vw;
     height: 580px;
     text-align: center;
-    background-image: url(/picture/figure\ \(3\).png);
+    background-image: url(/picture/figure\ \(6\).png);
     background-repeat: no-repeat;
 }
 
@@ -246,7 +246,7 @@ color: white;
 .airpod-2  :nth-child(1) {
     font-weight: 500;
     font-size: 24px;
-    color: white;
+    color: black;
     margin: 0px;
 
 }
@@ -254,7 +254,7 @@ color: white;
     font-weight: 500;
     font-size: 18px;
     line-height: 31px;
-    color: white;
+    color: black;
     margin: 0;
 }
 .airpod3 {
