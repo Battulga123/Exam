@@ -1,0 +1,297 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.nav {
+    height: 44px;
+    width: 1512px;
+    background-color: #000000CC;
+    display: flex;
+    margin: 0 auto;
+    position: sticky;
+}
+
+.nav-container {
+    width: 995.97px;
+    margin: 0 auto;
+    height: 44px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 10px;
+    align-items: center;
+   
+
+
+}
+
+.nav-container img {
+    Width: 12.97px;
+    Height: 15.94px
+}
+
+
+.iPhone14 {
+    width: 1512px;
+    height: 736px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FBFBFD;
+
+}
+
+.text1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color: #1D1D1F;
+    margin-top:  0px;
+    margin-bottom: 0px;
+    padding-top: 51px;
+}
+
+.text2 {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    letter-spacing: 0.112px;
+    color: #1D1D1F;
+        margin-top:  0px;
+    margin-bottom: 0px;
+
+
+}
+
+.iPhone14-button {
+    display: flex;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.231px;
+    color: #0066CC;
+    justify-content: center;
+    width: 202.73px;
+    margin: 0 auto;
+}
+
+.text3{
+    margin-right: 39px;
+}
+
+.iPhone14-Pro {
+    width: 1512px;
+    height: 736px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    background-image: url(/picture/figure\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.text1-pro {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color: #F5F5F7;
+    margin-top:  0px;
+    margin-bottom: 0px;
+    padding-top: 51px;
+}
+
+
+.text2-pro {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    letter-spacing: 0.112px;
+    color: #F5F5F7;
+        margin-top:  0px;
+    margin-bottom: 0px;
+}
+
+.iWatch {
+    width: 1512px;
+    height: 736px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FBFBFD;
+}
+
+.watch-logo {
+    padding-top: 60px;
+    display: flex;
+    align-items: flex-start;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.watch-1 img {
+    height: 25px;
+    width: 25px;
+}
+
+.watch-2 {
+    text-align: center
+}
+
+.watch-2 :nth-child(1) {
+    font-weight: 500;
+    font-size: 24px;
+    color: black;
+    margin: 0px;
+
+}
+.watch-2 :nth-child(2) {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 31px;
+    color: #F58A07;
+    margin: 0;
+}
+.text3-iwatch {
+    font-weight: 400;
+font-size: 28px;
+line-height: 31px;
+color: #1D1D1F;
+}
+
+
+
+
+.Accessories {
+    width: 1512px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    
+}
+.Series8 {
+    width: 45vw;
+    height: 580px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(/picture/figure\ \(3\).png);
+    background-repeat: no-repeat;
+}
+
+.Series8-text {
+    padding-top: 60px;
+    display: flex;
+    align-items: flex-start;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.series8-img img {
+    height: 25px;
+    width: 25px;
+}
+
+.series8-2 {
+    text-align: center
+}
+
+.series8-2 :nth-child(1) {
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    margin: 0px;
+
+}
+.series8-2 :nth-child(2) {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 31px;
+    color: red;
+    margin: 0;
+}
+.series8-text3 {
+    font-weight: 400;
+font-size: 28px;
+line-height: 31px;
+color: white;
+}
+
+
+
+.Airpods-Pro {
+    width: 45vw;
+    height: 580px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(/picture/figure\ \(3\).png);
+    background-repeat: no-repeat;
+}
+
+.airpods-text {
+    padding-top: 60px;
+    display: flex;
+    align-items: flex-start;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.airpod-1 img {
+    height: 25px;
+    width: 25px;
+}
+
+.airpod-2 {
+    text-align: center
+}
+
+.airpod-2  :nth-child(1) {
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    margin: 0px;
+
+}
+.airpod-2  :nth-child(2) {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 31px;
+    color: white;
+    margin: 0;
+}
+.airpod3 {
+    font-weight: 400;
+font-size: 28px;
+line-height: 31px;
+color: white;
+}
+
+
+
+
+.footer {
+    width: 1512px;
+    margin: 0 auto;
+    background-color: #F5F5F7;
+}
+
+
+.footer-top {
+    width: 979.84px;
+    margin: 0 auto;
+    color: #6E6E73;
+    font-size: 12px;
+    padding-top: 31px;
+}
+
+
+.footer-mid {
+    width: 979.84px;
+    margin: 0 auto;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    color: #6E6E73;
+    font-size: 12px;
+
+}
+
