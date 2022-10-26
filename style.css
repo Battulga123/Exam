@@ -10,6 +10,7 @@ html {
     display: flex;
     margin: 0 auto;
     position: sticky;
+    top: 0;
 }
 
 .nav-container {
@@ -166,12 +167,12 @@ color: #1D1D1F;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
+    flex-wrap: wrap;
     
 }
 .Series8 {
-    width: 45vw;
+    width: 33vw;
     height: 580px;
-    margin: 0 auto;
     text-align: center;
     background-image: url(/picture/figure\ \(3\).png);
     background-repeat: no-repeat;
@@ -218,9 +219,8 @@ color: white;
 
 
 .Airpods-Pro {
-    width: 45vw;
+    width: 33vw;
     height: 580px;
-    margin: 0 auto;
     text-align: center;
     background-image: url(/picture/figure\ \(3\).png);
     background-repeat: no-repeat;
@@ -295,3 +295,24 @@ color: white;
 
 }
 
+.footer-button {
+    width: 979.84px;
+    margin: 0 auto;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: flex-start;
+    color: #6E6E73;
+    font-size: 12px;
+}
+
+.button1 {
+    display: flex;
+}
+
+
+.button2 {
+    display: flex;
+    
+}
